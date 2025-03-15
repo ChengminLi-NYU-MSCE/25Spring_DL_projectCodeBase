@@ -1,7 +1,6 @@
 # 25Spring_DL_projectCodeBase
-
-## Please Read ME:
 All related Files are in master Branch. You can click branch to "master" to see our result.
+## Please Read ME:
 
 Folder "code" contains the .ipynb file as Juypter Notebook and a automated output .CSV file.
 
